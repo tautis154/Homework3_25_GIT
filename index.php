@@ -10,3 +10,5 @@ echo "Master";
 echo "testing2";
 echo "smth";
 echo "more";
+echo "masta";
+echo "more";
