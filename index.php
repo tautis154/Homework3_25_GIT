@@ -22,3 +22,4 @@ echo "Committ";
 echo "wow";
 echo "Comittsts";
 echo "Wow";
+echo "last commit";
