@@ -8,3 +8,4 @@ echo "pss";
 echo "Tests";
 echo "Master";
 echo "testing2";
+echo "smth";
