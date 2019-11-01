@@ -9,3 +9,4 @@ echo "Tests";
 echo "Master";
 echo "testing2";
 echo "smth";
+echo "more";
