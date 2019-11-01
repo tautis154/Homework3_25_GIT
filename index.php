@@ -5,3 +5,4 @@ echo "Commit";
 echo "checkout";
 echo "ok";
 echo "pss";
+echo "Tests";
