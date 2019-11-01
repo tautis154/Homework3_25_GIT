@@ -22,3 +22,6 @@ echo "Wow";
 echo "comit";
 echo "one more";
 echo "wow";
+echo "Committ";
+echo "wow";
+echo "Comittsts";
