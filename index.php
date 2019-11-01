@@ -6,3 +6,4 @@ echo "checkout";
 echo "ok";
 echo "pss";
 echo "Tests";
+echo "Master";
