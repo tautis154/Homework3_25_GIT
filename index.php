@@ -10,3 +10,8 @@ echo "Master";
 echo "Test1";
 echo "commit";
 echo "ok";
+echo "testing2";
+echo "smth";
+echo "more";
+echo "masta";
+echo "more";
