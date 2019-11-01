@@ -4,3 +4,4 @@ echo "tirr";
 echo "Commit";
 echo "checkout";
 echo "ok";
+echo "pss";
