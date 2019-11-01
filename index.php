@@ -9,3 +9,4 @@ echo "Tests";
 echo "Master";
 echo "Test1";
 echo "commit";
+echo "ok";
